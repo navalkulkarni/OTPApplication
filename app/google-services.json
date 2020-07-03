@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799059721439",
+    "firebase_url": "https://otpapplication-ca707.firebaseio.com",
+    "project_id": "otpapplication-ca707",
+    "storage_bucket": "otpapplication-ca707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799059721439:android:2e8ec1fdea28111599bd6a",
+        "android_client_info": {
+          "package_name": "com.naval.otpapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799059721439-d7c6sr4nui2v3fheaaihjicpb78o3755.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naval.otpapplication",
+            "certificate_hash": "4fe765240e9c639f03ac6403fc7b8b01fd83f74a"
+          }
+        },
+        {
+          "client_id": "799059721439-2f81fqs7h21g9bojfe70qgvk2gknk2pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7v-gGzvVwp2nsbHRfp5P4D5gCRk_DdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799059721439-2f81fqs7h21g9bojfe70qgvk2gknk2pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
